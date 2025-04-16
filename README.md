@@ -103,8 +103,8 @@ i) Generates an HTML report summarizing the dataset.
 
 ## Screenshots
 
-![Homepage](gitpic1.png)
-![Chatbot](gitpic1.png)
+![Homepage](gitpic3.png)
+![Chatbot](gitpic4.png)
 
 
 ## Feedback
